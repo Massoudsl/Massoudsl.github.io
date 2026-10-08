@@ -1,5 +1,5 @@
 const CACHE_PREFIX = "poolak-shell-";
-const CACHE_NAME = "poolak-shell-v7";
+const CACHE_NAME = "poolak-shell-v8";
 const APP_SHELL_KEY = "/__poolak_app_shell__";
 const CORE_ASSETS = [
   "/manifest.webmanifest",
